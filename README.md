@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm HamidReza Farahani</h1>
+<h1 align="center">Hi 👋, I'm HamidRez</h1>
 <h3 align="center">Developer</h3>
 
 - 📫 How to reach me **farahani.hr@gmail.com**
